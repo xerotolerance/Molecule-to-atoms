@@ -1,6 +1,6 @@
 # Molecule-to-atoms
-Solution to challenge posted here (https://www.codewars.com/kata/52f831fa9d332c6591000511) by user romanzes.
-
+Solution to parsing challenge posted here (https://www.codewars.com/kata/52f831fa9d332c6591000511) by user romanzes.
+Written in Python 3 by Cj Maxwell in July 2017.
 
 For a given chemical formula represented by a string, count the number of atoms of each element contained in the molecule and return an object (associative array in PHP, Dictionary<string, int> in C#, Map in Java).
 
